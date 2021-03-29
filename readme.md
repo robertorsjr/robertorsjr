@@ -1,6 +1,5 @@
 # Hi, I'm Roberto! :D
 
-[![Github Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/robertorsjr)](https://github.com/robertorsjr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-rodrigues-da-silva-junior-85a2a1136)](https://www.linkedin.com/in/roberto-rodrigues-da-silva-junior-85a2a1136)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:beto.rodriguesds@gmail.com)](mailto:beto.rodriguesds@gmail.com)
 
@@ -27,6 +26,6 @@
 ![MaterialUI Badge](https://img.shields.io/badge/-MaterialUI-grey?style=for-the-badge&logo=materialui&logoColor=blue)
 
 
-### some Architectural Concepts
+### Some Architectural Concepts
 
   Redux(ducks), Java(MVC)
