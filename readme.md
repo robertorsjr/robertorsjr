@@ -5,7 +5,7 @@
 
 
 ### About me :rocket:
-  I'm a { Back-End, Front-End } developer.
+  I'm a Front-End developer.
 
 ### Some Languages
 
