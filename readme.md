@@ -19,7 +19,3 @@
 ![Next Badge](https://img.shields.io/badge/-Next-gray?style=for-the-badge&logo=vercel&logoColor=white)
 ![Redux Badge](https://img.shields.io/badge/-REDUX-gray?style=for-the-badge&logo=redux&logoColor=red)
 ![styled Badge](https://img.shields.io/badge/-StyledComponents-grey?style=for-the-badge&logo=styledcomponents&logoColor=blue)
-
-### Some Architectural Concepts
-
-  Redux(ducks), Java(MVC)
