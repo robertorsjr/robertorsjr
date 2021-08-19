@@ -1,11 +1,11 @@
-# Hi, I'm Roberto! :D
+# Hi :D
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-rodrigues-da-silva-junior-85a2a1136)](https://www.linkedin.com/in/roberto-rodrigues-da-silva-junior-85a2a1136)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:beto.rodriguesds@gmail.com)](mailto:beto.rodriguesds@gmail.com)
 
 
 ### About me :rocket:
-  I'm a Front-End developer.
+ Front-End Web/Mobile developer.
 
 ### Some Languages
 
@@ -22,9 +22,6 @@
 ![Axios Badge](https://img.shields.io/badge/-Axios-gray?style=for-the-badge&logo=AXIOS&logoColor=red)
 ![Redux Badge](https://img.shields.io/badge/-REDUX-gray?style=for-the-badge&logo=redux&logoColor=red)
 ![styled Badge](https://img.shields.io/badge/-StyledComponents-grey?style=for-the-badge&logo=styledcomponents&logoColor=blue)
-![bootstrap Badge](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=blue)
-![MaterialUI Badge](https://img.shields.io/badge/-MaterialUI-grey?style=for-the-badge&logo=materialui&logoColor=blue)
-
 
 ### Some Architectural Concepts
 
