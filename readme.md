@@ -16,7 +16,7 @@
 
 ### Some Technologies
 ![REACT Badge](https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=react&logoColor=white)
-![REACT NATIVE Badge](https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=react&logoColor=white)
+![NATIVE Badge](https://img.shields.io/badge/-ReactNative-gray?style=for-the-badge&logo=react&logoColor=white)
 ![Next Badge](https://img.shields.io/badge/-Next-gray?style=for-the-badge&logo=vercel&logoColor=white)
 ![Redux Badge](https://img.shields.io/badge/-REDUX-gray?style=for-the-badge&logo=redux&logoColor=red)
 ![styled Badge](https://img.shields.io/badge/-StyledComponents-grey?style=for-the-badge&logo=styledcomponents&logoColor=blue)
